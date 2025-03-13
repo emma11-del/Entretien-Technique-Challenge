@@ -1,0 +1,190 @@
+text,label
+"Pouvez-vous me dire comment dire «je ne parle pas beaucoup espagnol», en espagnol",translate
+Dites-moi comment dire: «C'est une belle matinée» en italien,translate
+"Si j'étais japonais, comment dirais-je que je suis touriste",translate
+Comment dire «hôtel» en finnois,translate
+"J'ai besoin que vous traduisiez la phrase, «nous y serons bientôt» en portugais",translate
+Veuillez me dire comment demander un taxi en français,translate
+Comment dire bonjour en anglais,translate
+La Corée du Nord a-t-elle des alertes de voyage que je devrais être conscientes,travel_alert
+Y a-t-il des alertes de voyage pour la Syrie,travel_alert
+Y a-t-il une alerte de voyage pour la Russie,travel_alert
+Est-il sûr de se rendre en Islande,travel_alert
+Parlez-moi des alertes de voyage émises pour l'Allemagne,travel_alert
+Y a-t-il des nouvelles sur le vol DL123,flight_status
+Quand allons-nous commencer à monter à bord de mon vol prévu,flight_status
+Quand mon vol décollera-t-il,flight_status
+Quand mon vol atterrira-t-il,flight_status
+quelle est la porte d'embarquement pour mon vol AF847,flight_status
+Quand vais-je arriver à destination,flight_status
+Localiser les bagages perdus de Flight America Airlines à O'Hare,lost_luggage
+Perte des bagages sur Flight America Airlines à O'Hare,lost_luggage
+Je pense que mes bagages ont été perdus,lost_luggage
+"Mes bagages sont manquants, j'étais sur le vol Frontier AB123 depuis Seattle",lost_luggage
+"Aide, j'ai perdu mes bagages",lost_luggage
+Savez-vous qui je devrais contacter car mes valises ne sont pas arrivées,lost_luggage
+À qui dois-je me plaindre que mes bagages n'arrivent pas à l'aéroport,lost_luggage
+Veuillez suggérer des activités touristiques amusantes à Tokyo,travel_suggestion
+"Si je vais à Evans, que dois-je faire",travel_suggestion
+Quels sont les bons restaurants à Chicago,travel_suggestion
+où devrais-je passer mon temps libre,travel_suggestion
+Que puis-je faire à Nashville,travel_suggestion
+Donnez-moi une liste de choses à faire à Orlando,travel_suggestion
+Où est la meilleure cave du sud de la France,travel_suggestion
+Y a-t-il des activités touristiques amusantes en Australie,travel_suggestion
+Voulez-vous me faire part des restrictions de bagage à main pour American Airlines,carry_on
+Restrictions de cabine pour les émirats arabes unis,carry_on
+Qu'est-ce que je suis autorisé à prendre en cabine avec American Airlines,carry_on
+Y a-t-il une limite de poids pour mon bagage à main,carry_on
+Combien de bagages à main puis-je prendre pendant un vol avec United pour Lax,carry_on
+Quelles sont les règles concernant les bagages à main pour les vols Virgin Airlines,carry_on
+Y a-t-il une limite de poids de bagage cabine,carry_on
+Dois-je payer pour mes bagages à main,carry_on
+Réservez-moi une chambre du 11 au 15 novembre à Cali,book_hotel
+Trouvez-moi un endroit où séjourner à Cali du 11 au 15 novembre,book_hotel
+Quels hôtels ont des critiques décentes à Bangor,book_hotel
+Veuillez me trouver une chambre d'hôtel pour 4 personnes du lundi au mercredi à Lakewood,book_hotel
+"Trouvez un hôtel Columbus, Ohio avec de bonnes critiques",book_hotel
+"S'il vous plaît, aidez-moi à réserver un endroit où séjourner à Pittsburgh du lundi au vendredi",book_hotel
+J'ai besoin d'une chambre d'hôtel assez grande pour 4 personnes du lundi au mercredi à Lakewood,book_hotel
+Trouvez-moi des vols aller-retour de LAX vers SFOX,book_flight
+Réservez un vol de Chicago à DC lundi et revenant mercredi,book_flight
+Je recherche un vol aller-retour de AAF à DIA du 23 février au 28 février,book_flight
+Pourriez-vous faire une réservation de vol avec Air Emirates d'Orlando à Londres,book_flight
+J'ai besoin de réserver un vol aller-retour de Dallas à Los Angeles du 2 au 10 mars,book_flight
+Je voudrais savoir quels vols sont disponibles sur El Paso à Dallas le 10 juin pour moins de 300 $,book_flight
+Combien coûte des frais de découvert pour la banque,out_of_scope
+Quelle taille d'essuie-glace cette voiture prend-t-elle,out_of_scope
+Quel est le plus grand état des États-Unis,out_of_scope
+Quelle est la compagnie aérienne la plus populaire,out_of_scope
+Combien de planètes avons-nous découvert,out_of_scope
+Combien de côtés dans un hexagone,out_of_scope
+Combien de temps dure l'hiver,out_of_scope
+qui est l'entraîneur des Chicago Bulls,out_of_scope
+Combien d'Oscars ont gagné les films Star Wars,out_of_scope
+Veuillez trouver la capitale du Pakistan ,out_of_scope
+qui est le personnage le plus effrayant de Start Trek,out_of_scope
+Quelle est la durée de vie de la batterie moyenne d'un téléphone Android,out_of_scope
+Quand Camus est-il mort,out_of_scope
+Quand Nintendo a-t-il été créé,out_of_scope
+Quel personnage Marvel est apparu dans le plus de films,out_of_scope
+Quels sont les avantages de terminer le lycée,out_of_scope
+Pouvez-vous me dire à quelle vitesse moyenne l'avion vers la Californie va,out_of_scope
+Est-il possible de louer une voiture à la Laguardia du mardi au vendredi,out_of_scope
+Que vaut un dollar au Mexique,out_of_scope
+Quel est le taux de change entre l'USD et l'euro,out_of_scope
+Pouvez-vous me dire le fuseau horaire à San Francisco,out_of_scope
+Pourriez-vous m'expliquer comment exprimer « je ne parle pas beaucoup espagnol » en espagnol ?,translate
+Pourriez-vous m'expliquer comment exprimer « C'est une belle matinée » en italien ?,translate
+"""Étant japonais, quelle serait la manière de déclarer que je suis un touriste ?""",translate
+Quelle est la traduction du mot « hôtel » en finnois ?,translate
+Pourriez-vous traduire en portugais la phrase suivante : « nous y serons bientôt » ?,translate
+Pourriez-vous m'expliquer la façon de solliciter un taxi en français ?,translate
+Quelle est la manière de saluer en anglais ?,translate
+Pourriez-vous m'expliquer comment exprimer « je ne parle pas beaucoup espagnol » en langue espagnole ?,translate
+"Pourriez-vous me montrer comment exprimer ""C'est une belle matinée"" en italien ?",translate
+"Si je venais du Japon, quelle serait la manière correcte de déclarer que je suis un touriste ?",translate
+Quelle est la traduction du mot « hôtel » en finnois ?,translate
+Pourriez-vous traduire en portugais la phrase « nous y serons bientôt » pour moi ?,translate
+Pourriez-vous m'expliquer la manière de solliciter un taxi en français ?,translate
+Quelle est la manière correcte de saluer en anglais ?,translate
+Existe-t-il des avertissements de voyage concernant la Corée du Nord dont je devrais être informé ?,travel_alert
+Existe-t-il des avertissements pour les voyageurs se rendant en Syrie ?,travel_alert
+Existe-t-il une mise en garde pour les voyages en Russie ?,travel_alert
+L'Islande est-elle une destination sécuritaire pour s'y rendre ?,travel_alert
+Pouvez-vous m'informer sur les avertissements de voyage concernant l'Allemagne ?,travel_alert
+Existe-t-il des recommandations de voyage pour la Corée du Nord dont je devrais avoir connaissance ?,travel_alert
+Existe-t-il des avertissements concernant les voyages en Syrie ?,travel_alert
+Existe-t-il un avertissement pour les voyageurs se rendant en Russie ?,travel_alert
+L'Islande est-elle une destination sécurisée pour un voyage ?,travel_alert
+Pourriez-vous m'informer sur les recommandations de voyage actuelles pour l'Allemagne ?,travel_alert
+Existe-t-il des avertissements de voyage concernant la Corée du Nord dont je devrais être informé ?,travel_alert
+Existe-t-il des avertissements de voyage en vigueur pour la Syrie ?,travel_alert
+Existe-t-il des avertissements de voyage en cours pour la Russie ?,travel_alert
+L'Islande est-elle une destination sécurisée pour y voyager ?,travel_alert
+Pourriez-vous me renseigner sur les avertissements de voyage actuels pour l'Allemagne ?,travel_alert
+Y a-t-il des avertissements de voyage concernant la Corée du Nord dont je devrais être informé ?,travel_alert
+Avez-vous des informations récentes concernant le vol DL123 ?,flight_status
+À quel moment débutera l'embarquement pour mon vol programmé ?,flight_status
+À quelle heure est prévu le départ de mon vol ?,flight_status
+À quelle heure est prévue l'arrivée de mon vol ?,flight_status
+Pourriez-vous me dire à quelle porte d'embarquement je dois me rendre pour le vol AF847 ?,flight_status
+À quel moment atteindrai-je mon lieu de destination ?,flight_status
+Avez-vous des informations récentes concernant le vol DL123 ?,flight_status
+À quel moment débutera l'embarquement pour mon vol programmé ?,flight_status
+À quelle heure est prévu le départ de mon vol ?,flight_status
+À quelle heure est prévue l'atterrissage de mon vol ?,flight_status
+Pourrais-je savoir à quelle porte je dois me rendre pour l'embarquement de mon vol AF847 ?,flight_status
+À quel moment atteindrai-je ma destination ?,flight_status
+Avez-vous des informations récentes concernant le vol DL123 ?,flight_status
+À quelle heure débutera l'embarquement pour mon vol programmé ?,flight_status
+À quelle heure est prévu le départ de mon vol ?,flight_status
+"""Trouver les valises égarées d'America Airlines à l'aéroport O'Hare""",lost_luggage
+Les bagages ont été égarés sur un vol de America Airlines à l'aéroport O'Hare.,lost_luggage
+Il me semble que mes valises ont disparu.,lost_luggage
+J'ai perdu mes bagages sur le vol AB123 de Frontier en provenance de Seattle.,lost_luggage
+"Je suis dans l'embarras, mes bagages ont été égarés.",lost_luggage
+"Pourriez-vous me dire à qui m'adresser, mes bagages n'étant pas arrivés ?",lost_luggage
+Auprès de qui puis-je signaler l'absence de mes bagages à l'aéroport ?,lost_luggage
+"""Trouver les valises égarées de Flight America Airlines à l'aéroport O'Hare""",lost_luggage
+"""Bagages égarés sur un vol d'America Airlines à l'aéroport O'Hare""",lost_luggage
+Il me semble que mes valises ont disparu.,lost_luggage
+"Je ne retrouve pas mes bagages, ils devraient venir du vol Frontier AB123 en provenance de Seattle.",lost_luggage
+"Je suis dans l'embarras, mes bagages ont été égarés.",lost_luggage
+"Pourriez-vous me dire à qui m'adresser, mes bagages n'étant pas arrivés?",lost_luggage
+À qui devrais-je signaler l'absence de mes bagages à l'aéroport ?,lost_luggage
+Pourriez-vous me recommander quelques divertissements touristiques à Tokyo ?,travel_suggestion
+Quelles activités sont recommandées si je me rends à Evans ?,travel_suggestion
+Pourriez-vous me recommander de bons restaurants à Chicago ?,travel_suggestion
+Quel serait le meilleur endroit pour profiter de mon temps libre ?,travel_suggestion
+Quelles activités sont disponibles à Nashville ?,travel_suggestion
+Pourriez-vous me fournir une liste d'activités à réaliser à Orlando ?,travel_suggestion
+Quel est l'emplacement de la cave la plus réputée dans le sud de la France ?,travel_suggestion
+L'Australie propose-t-elle des attractions touristiques divertissantes ?,travel_suggestion
+Pourriez-vous me proposer des idées d'activités divertissantes à faire à Tokyo ?,travel_suggestion
+Quelles activités sont recommandées si je me rends à Evans ?,travel_suggestion
+Pourriez-vous me recommander de bons restaurants à Chicago ?,travel_suggestion
+Quel est le meilleur endroit pour profiter de mon temps libre ?,travel_suggestion
+Quelles activités sont disponibles à Nashville ?,travel_suggestion
+Pourriez-vous m'informer sur les limitations concernant les bagages à main chez American Airlines ?,carry_on
+Limitations de bagage en cabine pour les Émirats Arabes Unis.,carry_on
+Quels objets sont permis en cabine lorsque je voyage avec American Airlines ?,carry_on
+Existe-t-il une restriction de poids pour les bagages à main ?,carry_on
+Quel est le nombre autorisé de bagages à main sur un vol United à destination de LAX ?,carry_on
+Pourriez-vous me renseigner sur les directives applicables aux bagages à main chez Virgin Airlines ?,carry_on
+Existe-t-il une restriction sur le poids du bagage à main ?,carry_on
+Est-il nécessaire de régler un supplément pour les bagages que je transporte en cabine ?,carry_on
+Pourriez-vous m'informer sur les limitations concernant les bagages à main chez American Airlines ?,carry_on
+"""Limitations de bagage en cabine pour les Émirats Arabes Unis""",carry_on
+Quels articles sont permis en cabine lorsque je voyage avec American Airlines ?,carry_on
+Existe-t-il une restriction de poids pour les bagages à main ?,carry_on
+Quel est le nombre autorisé de bagages à main sur un vol United à destination de LAX ?,carry_on
+Je souhaite que vous m'aidiez à réserver une chambre à Cali du 11 au 15 novembre.,book_hotel
+Pourriez-vous me suggérer un hébergement à Cali pour la période du 11 au 15 novembre ?,book_hotel
+Quels sont les hôtels à Bangor qui bénéficient de bonnes critiques ?,book_hotel
+"Pourriez-vous organiser une réservation de chambre quadruple à Lakewood, du lundi au mercredi ?",book_hotel
+"Cherchez un hôtel bien noté à Columbus, Ohio.",book_hotel
+"Pourriez-vous m'assister dans la réservation d'un logement à Pittsburgh, du lundi au vendredi, s'il vous plaît ?",book_hotel
+"Pourriez-vous me trouver une chambre spacieuse à Lakewood capable d'accueillir quatre personnes, de lundi à mercredi ?",book_hotel
+"Je souhaiterais que vous réserviez une chambre pour moi à Cali, du 11 au 15 novembre.",book_hotel
+Je cherche un logement à Cali pour la période du 11 au 15 novembre.,book_hotel
+Dans quels établissements à Bangor peut-on trouver des avis positifs ?,book_hotel
+"Pourriez-vous rechercher une chambre d'hôtel disponible à Lakewood pour quatre personnes, de lundi à mercredi ?",book_hotel
+"Cherchez un hôtel à Columbus, Ohio qui soit bien noté.",book_hotel
+"Pourriez-vous m'assister dans la réservation d'un logement à Pittsburgh, de lundi à vendredi?",book_hotel
+"Je recherche une chambre spacieuse pour quatre personnes à Lakewood, disponible du lundi au mercredi.",book_hotel
+Pourriez-vous rechercher des billets d'avion aller-retour entre LAX et SFO pour moi ?,book_flight
+"Je voudrais que vous planifiez un vol aller de Chicago à Washington DC pour lundi, avec un retour prévu pour mercredi.",book_flight
+"Je souhaite trouver un billet aller-retour entre AAF et DIA, du 23 au 28 février.",book_flight
+Serait-il possible d'organiser un billet d'avion pour Londres depuis Orlando via Air Emirates ?,book_flight
+"Il me faut organiser un voyage en avion de Dallas à Los Angeles, avec un départ le 2 mars et un retour le 10 mars.",book_flight
+Pourriez-vous me renseigner sur les vols disponibles entre El Paso et Dallas le 10 juin à un tarif inférieur à 300 dollars ?,book_flight
+Je souhaiterais connaître les options de vols aller-retour entre LAX et SFO.,book_flight
+"""Pourriez-vous organiser un billet d'avion aller-retour, partant de Chicago pour Washington DC lundi et revenant mercredi ?""",book_flight
+"Je souhaite trouver un billet aller-retour entre AAF et DIA, partant le 23 février et revenant le 28 février.",book_flight
+Serait-il possible d'organiser un billet d'avion d'Orlando à Londres via Air Emirates ?,book_flight
+"Il me faut organiser un voyage en avion de Dallas à Los Angeles, avec départ le 2 mars et retour le 10 mars.",book_flight
+Pourriez-vous me renseigner sur les vols disponibles entre El Paso et Dallas le 10 juin à un tarif inférieur à 300 dollars ?,book_flight
+Pourriez-vous rechercher des billets d'avion aller-retour entre LAX et SFO pour moi ?,book_flight
+"Programmez un vol aller de Chicago à Washington DC pour le lundi, avec un retour prévu le mercredi.",book_flight
+"Je souhaite trouver un billet d'avion aller-retour entre AAF et DIA, partant le 23 février et revenant le 28 février.",book_flight

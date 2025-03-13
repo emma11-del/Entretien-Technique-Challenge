@@ -1,0 +1,76 @@
+text,cat_prediction_openai,cat_prediction_ollama,label,correct_openai,correct_ollama
+"Pouvez-vous me dire comment dire «je ne parle pas beaucoup espagnol», en espagnol",translate,translate,translate,True,True
+Dites-moi comment dire: «C'est une belle matinée» en italien,translate,translate,translate,True,True
+"Si j'étais japonais, comment dirais-je que je suis touriste",translate,translate,translate,True,True
+Comment dire «hôtel» en finnois,translate,translate,translate,True,True
+"J'ai besoin que vous traduisiez la phrase, «nous y serons bientôt» en portugais",translate,translate,translate,True,True
+Veuillez me dire comment demander un taxi en français,translate,translate,translate,True,True
+Comment dire bonjour en anglais,translate,translate,translate,True,True
+La Corée du Nord a-t-elle des alertes de voyage que je devrais être conscientes,travel_alert,travel_alert,travel_alert,True,True
+Y a-t-il des alertes de voyage pour la Syrie,travel_alert,travel_alert,travel_alert,True,True
+Y a-t-il une alerte de voyage pour la Russie,travel_alert,travel_alert,travel_alert,True,True
+Est-il sûr de se rendre en Islande,travel_alert,travel_suggestion,travel_alert,True,False
+Parlez-moi des alertes de voyage émises pour l'Allemagne,travel_alert,travel_alert,travel_alert,True,True
+Y a-t-il des nouvelles sur le vol DL123,flight_status,flight_status,flight_status,True,True
+Quand allons-nous commencer à monter à bord de mon vol prévu,flight_status,flight_status,flight_status,True,True
+Quand mon vol décollera-t-il,flight_status,flight_status,flight_status,True,True
+Quand mon vol atterrira-t-il,flight_status,flight_status,flight_status,True,True
+quelle est la porte d'embarquement pour mon vol AF847,flight_status,flight_status,flight_status,True,True
+Quand vais-je arriver à destination,out_of_scope,flight_status,flight_status,False,True
+Localiser les bagages perdus de Flight America Airlines à O'Hare,lost_luggage,lost_luggage,lost_luggage,True,True
+Perte des bagages sur Flight America Airlines à O'Hare,lost_luggage,lost_luggage,lost_luggage,True,True
+Je pense que mes bagages ont été perdus,lost_luggage,lost_luggage,lost_luggage,True,True
+"Mes bagages sont manquants, j'étais sur le vol Frontier AB123 depuis Seattle",lost_luggage,lost_luggage,lost_luggage,True,True
+"Aide, j'ai perdu mes bagages",lost_luggage,lost_luggage,lost_luggage,True,True
+Savez-vous qui je devrais contacter car mes valises ne sont pas arrivées,lost_luggage,lost_luggage,lost_luggage,True,True
+À qui dois-je me plaindre que mes bagages n'arrivent pas à l'aéroport,lost_luggage,lost_luggage,lost_luggage,True,True
+Veuillez suggérer des activités touristiques amusantes à Tokyo,travel_suggestion,travel_suggestion,travel_suggestion,True,True
+"Si je vais à Evans, que dois-je faire",travel_suggestion,travel_suggestion,travel_suggestion,True,True
+Quels sont les bons restaurants à Chicago,travel_suggestion,travel_suggestion,travel_suggestion,True,True
+où devrais-je passer mon temps libre,out_of_scope,travel_suggestion,travel_suggestion,False,True
+Que puis-je faire à Nashville,travel_suggestion,travel_suggestion,travel_suggestion,True,True
+Donnez-moi une liste de choses à faire à Orlando,travel_suggestion,travel_suggestion,travel_suggestion,True,True
+Où est la meilleure cave du sud de la France,travel_suggestion,travel_suggestion,travel_suggestion,True,True
+Y a-t-il des activités touristiques amusantes en Australie,travel_suggestion,travel_suggestion,travel_suggestion,True,True
+Voulez-vous me faire part des restrictions de bagage à main pour American Airlines,carry_on,carry_on,carry_on,True,True
+Restrictions de cabine pour les émirats arabes unis,carry_on,carry_on,carry_on,True,True
+Qu'est-ce que je suis autorisé à prendre en cabine avec American Airlines,carry_on,carry_on,carry_on,True,True
+Y a-t-il une limite de poids pour mon bagage à main,carry_on,carry_on,carry_on,True,True
+Combien de bagages à main puis-je prendre pendant un vol avec United pour Lax,carry_on,carry_on,carry_on,True,True
+Quelles sont les règles concernant les bagages à main pour les vols Virgin Airlines,carry_on,carry_on,carry_on,True,True
+Y a-t-il une limite de poids de bagage cabine,carry_on,carry_on,carry_on,True,True
+Dois-je payer pour mes bagages à main,carry_on,carry_on,carry_on,True,True
+Réservez-moi une chambre du 11 au 15 novembre à Cali,book_hotel,book_hotel,book_hotel,True,True
+Trouvez-moi un endroit où séjourner à Cali du 11 au 15 novembre,book_hotel,travel_suggestion,book_hotel,True,False
+Quels hôtels ont des critiques décentes à Bangor,travel_suggestion,travel_suggestion,book_hotel,False,False
+Veuillez me trouver une chambre d'hôtel pour 4 personnes du lundi au mercredi à Lakewood,book_hotel,book_hotel,book_hotel,True,True
+"Trouvez un hôtel Columbus, Ohio avec de bonnes critiques",book_hotel,book_hotel,book_hotel,True,True
+"S'il vous plaît, aidez-moi à réserver un endroit où séjourner à Pittsburgh du lundi au vendredi",book_hotel,book_hotel,book_hotel,True,True
+J'ai besoin d'une chambre d'hôtel assez grande pour 4 personnes du lundi au mercredi à Lakewood,book_hotel,book_hotel,book_hotel,True,True
+Trouvez-moi des vols aller-retour de LAX vers SFOX,book_flight,book_flight,book_flight,True,True
+Réservez un vol de Chicago à DC lundi et revenant mercredi,book_flight,book_flight,book_flight,True,True
+Je recherche un vol aller-retour de AAF à DIA du 23 février au 28 février,book_flight,book_flight,book_flight,True,True
+Pourriez-vous faire une réservation de vol avec Air Emirates d'Orlando à Londres,book_flight,book_flight,book_flight,True,True
+J'ai besoin de réserver un vol aller-retour de Dallas à Los Angeles du 2 au 10 mars,book_flight,book_flight,book_flight,True,True
+Je voudrais savoir quels vols sont disponibles sur El Paso à Dallas le 10 juin pour moins de 300 $,book_flight,book_flight,book_flight,True,True
+Combien coûte des frais de découvert pour la banque,out_of_scope,out_of_scope,out_of_scope,True,True
+Quelle taille d'essuie-glace cette voiture prend-t-elle,out_of_scope,out_of_scope,out_of_scope,True,True
+Quel est le plus grand état des États-Unis,out_of_scope,travel_suggestion,out_of_scope,True,False
+Quelle est la compagnie aérienne la plus populaire,out_of_scope,travel_suggestion,out_of_scope,True,False
+Combien de planètes avons-nous découvert,out_of_scope,out_of_scope,out_of_scope,True,True
+Combien de côtés dans un hexagone,out_of_scope,translate,out_of_scope,True,False
+Combien de temps dure l'hiver,out_of_scope,travel_suggestion,out_of_scope,True,False
+qui est l'entraîneur des Chicago Bulls,out_of_scope,out_of_scope,out_of_scope,True,True
+Combien d'Oscars ont gagné les films Star Wars,out_of_scope,out_of_scope,out_of_scope,True,True
+Veuillez trouver la capitale du Pakistan ,out_of_scope,travel_suggestion,out_of_scope,True,False
+qui est le personnage le plus effrayant de Start Trek,out_of_scope,out_of_scope,out_of_scope,True,True
+Quelle est la durée de vie de la batterie moyenne d'un téléphone Android,out_of_scope,out_of_scope,out_of_scope,True,True
+Quand Camus est-il mort,out_of_scope,out_of_scope,out_of_scope,True,True
+Quand Nintendo a-t-il été créé,out_of_scope,out_of_scope,out_of_scope,True,True
+Quel personnage Marvel est apparu dans le plus de films,out_of_scope,out_of_scope,out_of_scope,True,True
+Quels sont les avantages de terminer le lycée,out_of_scope,out_of_scope,out_of_scope,True,True
+Pouvez-vous me dire à quelle vitesse moyenne l'avion vers la Californie va,out_of_scope,flight_status,out_of_scope,True,False
+Est-il possible de louer une voiture à la Laguardia du mardi au vendredi,out_of_scope,travel_suggestion,out_of_scope,True,False
+Que vaut un dollar au Mexique,out_of_scope,translate,out_of_scope,True,False
+Quel est le taux de change entre l'USD et l'euro,out_of_scope,translate,out_of_scope,True,False
+Pouvez-vous me dire le fuseau horaire à San Francisco,out_of_scope,flight_status,out_of_scope,True,False
